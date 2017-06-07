@@ -1,0 +1,78 @@
+#titleSize {
+	font-size: 36px;
+	font-family: 'Racing Sans One', cursive;
+	padding: 80px 50px;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 2px 2px lightgray;
+}
+
+
+#panelBorder {
+	border: 10px double steelblue;
+}
+
+#resumeSize {
+	font-size: 40px;
+	font-family: 'Racing Sans One', cursive;
+	padding: 0px 0px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.navBarColor {
+	background-color: steelblue;
+}
+
+.topBuffer { 
+	margin-top:20px; 
+}
+
+.colorFill {
+	background-color: steelblue;
+}
+
+.rowStriped:nth-of-type(odd){
+	background-color: #efefef;
+}
+
+.rowStriped:nth-of-type(even){
+	background-color: #ffffff;
+}
+
+
+#resumeImg {
+	width: 175px;
+	height: 225px;
+	border: 1px solid black;
+}
+
+#imgResize {
+	width: 150px;
+	height: 175px;
+}
+
+.bodyBg {
+	background: url('idea.png') no-repeat center center fixed;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cardFont {
+	color: white;
+}
+
+.projectFill {
+	background: rgba(240,248,255,.5);
+}
+
+.projectRow {
+	border: 1px solid;
+	height: 100px;
+	text-align: center;
+}
+
+.nameFont {
+	font-family: 'Racing Sans One', cursive;
+}
+
